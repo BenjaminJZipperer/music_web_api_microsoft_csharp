@@ -10,5 +10,6 @@ namespace MUSIC_WEP_API.Areas.HelpPage.Controllers
     public class SecondController : ApiController
     {
         private string base_ = null;
+        private string another_base = null;
     }
 }
