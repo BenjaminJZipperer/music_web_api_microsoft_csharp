@@ -1,0 +1,3 @@
+FROM
+docker build -f DockerFile -t dockerdemo .
+docker run -p 8080:8080 dockerdemo 
