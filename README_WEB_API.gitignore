@@ -1,0 +1,10 @@
+This application holds a HTML,CSS  frontent which displays the results of a C# MVC Backend.
+Description/Beschreibung:
+Anzeige mehrerer Musik-Alben mit Name Album, Interpret, ID, Anzahl Lieder (Tracks)
+in Form von Kacheln (rechteckige Flächen, blauer Hintergrund => 3 in einer Reihe, unbegrenzt
+nach unten).
+Die Daten kommen nicht aus einer Datenbank sondern aus einer Seeding - Funktion.
+Status:fertig/einsatzbereit, getestet lokal (Windows 8)
+
+
+
